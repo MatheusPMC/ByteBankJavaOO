@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ByteBankJavaOO.iml" filepath="$PROJECT_DIR$/ByteBankJavaOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bytebank - encapsulado/bytebank - encapsulado.iml" filepath="$PROJECT_DIR$/../bytebank - encapsulado/bytebank - encapsulado.iml" />
       <module fileurl="file://$PROJECT_DIR$/../bytebank-composto/bytebank-composto.iml" filepath="$PROJECT_DIR$/../bytebank-composto/bytebank-composto.iml" />
     </modules>
   </component>
